@@ -31,6 +31,12 @@ const projectcarddata =[
         title:"Blogging Site",
         text:"Created a blogging site Backend multiple API's for user and blog, performed CRUD operations on blogs. Used JWT for authentication & authorization for protected API's",
         Sourcecode:"https://github.com/harshitabak/training/tree/project/Blogging/Group_58_Final"
+    },
+    {
+    imgsrc:"https://photodoto.com/wp-content/uploads/2012/01/create-online-photo-portfolio-1.jpg",
+    title:"Portfolio Website",
+    text:"Created a Portfolio site using react ",
+    Sourcecode:""
     }
 ]
   

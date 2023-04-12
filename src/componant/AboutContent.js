@@ -6,8 +6,15 @@ const AboutContent = () => {
   return (
     <div className="about">
       <div className="left">
-        <h2> Who Am  I</h2>
-        <p></p>
+        <h1> Skills |-</h1>
+        <p> Javascript   </p>
+        <p>NODEJS   </p>
+        <p>MONGODB   </p>
+        <p>HTML  </p>
+        <p>Css </p>
+        <p>Reactjs </p>
+        <p>Aws-s3  </p>
+        <p>Github  </p>
         <Link to="/Contact">
             <button className="btn">Contact</button>
         </Link>
